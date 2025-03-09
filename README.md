@@ -45,3 +45,4 @@ This repository contains the following lab exercises:
 ## How to Use
 1. Clone the repository to your local machine:
    ```sh
+      git clone https://github.com/Vish-p0/R-Labsheets.git
