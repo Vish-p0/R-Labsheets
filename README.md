@@ -24,7 +24,15 @@ This repository contains the following lab exercises:
 
 1. **Lab 1 - Introduction to R and Descriptive Statistics**  
    - Basics of R programming
-   - Descriptive statistics calculations (mean, median, variance, etc.)
+   - Operators
+   - Creating New Variables
+   - Installing and Using Packages
+   - Fundamental Data Objects
+   - Vectors
+   - Factors
+   - Lists
+   - Matrices
+   - Data Frames
 
 2. **Lab 2 - Probability Distributions**  
    - Working with probability distributions (Normal, Binomial, Poisson)
